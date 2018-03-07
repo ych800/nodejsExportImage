@@ -1,0 +1,23 @@
+{
+  "name": "genchart",
+  "version": "1.0.0",
+  "description": "nodejs  echarts  hightcharts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "echarts",
+    "highaharts"
+  ],
+  "author": "ych",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "highcharts-export-server": "^2.0.4",
+    "node-echarts": "^1.1.2",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3"
+  }
+}

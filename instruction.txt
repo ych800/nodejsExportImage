@@ -1,0 +1,22 @@
+﻿/***
+    插件引入说明:
+***/
+
+1. cnpm install node-echarts;
+
+2. cnpm install async;
+
+3. cnpm install request;
+
+4. cnpm install highcharts-export-server ;
+
+5. cnpm install underscore;
+
+
+/*** 插件修改说明: ***/
+
+1. node_module/node-echarts/index.js 存在修改 ,需要替换;
+
+
+
+index2.js : 组合投后,  图片导出; 优化了综合评分多次调用问题,减少请求次数; 
